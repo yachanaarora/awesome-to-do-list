@@ -1,0 +1,84 @@
+body {
+	background: #9CECFB;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #0052D4, #65C7F7, #9CECFB);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #0052D4, #65C7F7, #9CECFB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+div.center {
+	width: 30%;
+	padding: 0;
+	margin: 100px auto;
+	background: #f7f7f7;
+	box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+	font-family: Roboto;
+}
+
+ul {
+	padding:  0;
+	list-style: none;
+	margin: 0;
+}
+
+h5 {
+	background: #2980b9;
+	color: white;
+	padding: 5px;
+	font-size: 20px; 
+	margin: 0;
+}
+
+span {
+	background: #e74c3c;
+	height: 30px;
+	text-align: center;
+	color: white;
+	margin-right: 5px;
+	display: inline-block;
+	opacity: 0;
+	transition: 0.4s linear;
+	width: 0;
+}
+
+li:hover span{
+	width: 40px;
+	opacity: 1;
+}
+
+button.btn {
+	padding: 0;
+	margin: 0;
+	background: #2980b9;
+	outline: none;
+	border: none;
+}
+
+
+.completed {
+	color: gray;
+	text-decoration: line-through;
+}
+
+button.btn:hover {
+	background: #2980b9;
+	outline: none;
+	border: none;
+	padding-bottom: 2px;
+}
+
+
+input {
+	border: none;
+	width: 100%;
+	font-size: 18;
+	background: #f7f7f7;
+	padding: 5px;
+	margin: none;
+	box-sizing: border-box;
+}
+
+
+li:nth-child(odd) {
+	background: white;
+}
