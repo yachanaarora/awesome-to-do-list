@@ -1,2 +1,2 @@
 # Awesome-To-Do-List
-Using HTML, CSS and JavaScript
+ A to do list that manages daily day to day activties . The application was made using HTML, CSS and JavaScript.
