@@ -7,7 +7,7 @@
 1. Any extra detail should be provided in the body of the PR.
 1. Don't submit unrelated changes in the same pull request.
 1. If you had a bit of churn in the process of getting the change right,
-   squash your commits. Refer to the guidelines on [squashing commits](/contributing/git-basics.md#squashing).
+   squash your commits. Refer to the guidelines /git-basics.md#squashing).
 1. If you had to refactor in order to add your change, then we'd love to
    see two commits: First the refactoring, then the added behavior. It's
    fine to put this in the same pull request, unless the refactoring is
