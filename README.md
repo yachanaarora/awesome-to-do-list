@@ -13,7 +13,7 @@
    fine to put this in the same pull request, unless the refactoring is
    huge and would make it hard to review both at the same time.
 1. If you are referencing another issue or pull-request, for instance
-   *closes #XXX* or  PR,
+ 
    rather than the subject line. This is simply because the subject line doesn't
    support markdown, and so these don't get turned into clickable links. It makes
 
