@@ -16,5 +16,5 @@
    *closes #XXX* or *see #XXX*, please include the reference in the body of the PR,
    rather than the subject line. This is simply because the subject line doesn't
    support markdown, and so these don't get turned into clickable links. It makes
-   it harder to follow and to go look at the related issue or PR.
+
 1. Please also refer to the guidelines for [commit messages](/contributing/git-basics.md#commit-messages).
