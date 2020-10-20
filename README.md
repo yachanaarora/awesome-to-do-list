@@ -2,7 +2,7 @@
 
 1. Put the name of the exercise in the subject line of the commit. This is the most important step of the PR merging criteria 
    E.g. `hamming: Add test case for strands of unequal length`
-1. The subject line should be a one-sentence summary, and should not include
+1. The subject line should be a one-sentence summary, mudt not have
    the word *and* (explicitly or implied).
 1. Any extra detail should be provided in the body of the PR.
 1. Don't submit unrelated changes in the same pull request.
